@@ -1,0 +1,374 @@
+/* Nav header customisation */
+nav {
+  justify-content: space-between;
+  display: flex;
+  border-bottom: 1px solid;
+  height: 60px;
+}
+h4 {
+  display: inline;
+  padding: 5px;
+}
+.butone {
+  float: right;
+  margin-right: 450px;
+  background-color: red;
+  color: white;
+  border: 0px;
+  border-radius: 4ch;
+  height: 35px;
+  margin-bottom: 10px;
+  margin-left: 400px;
+  margin-top: 15px;
+  margin-right: 5px;
+}
+.butone:hover{
+background-color: black;
+}
+
+nav h4 {
+  margin-right: 20px;
+}
+nav i {
+  margin-right: 20px;
+  margin-top: 30px;
+}
+/* Body Section Customisation */
+#divone {
+  /* border:2px solid black; */
+  width: 320px;
+  height: 400px;
+  margin-top: 100px;
+  margin-left: 200px;
+  float: left;
+  margin-top: 150px;
+}
+.h1,.div5a,.super2c {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: rgb(20, 20, 68);
+    padding: 4px;
+}
+.buttwo{
+    float: left;
+    margin-left: 2px;
+    display: flex;
+    background-color: rgb(64, 64, 238);
+    border: 0px;
+    width: 100px;
+    height: 35px;
+    border-radius: 4ch;
+    float: left;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+#img4{
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+  border: 2px solid black;
+  padding-left: 10px;
+  padding-top: 8px;
+  border-radius: 60%;
+  color: rgb(189, 55, 122);
+}
+/* Div number Two Customisation */
+.divtwo{
+width: 600px;
+height: 400px;
+/* border: 2px solid black; */
+margin-left: 600px;
+overflow: auto;
+float: right top;
+margin-top: 100px;
+}
+#imageone{
+  width: 590px;
+  height: 390px;
+}
+/* Secton three Start from here! */
+.secthree{
+  /* border: 2px solid black; */
+  margin-top: 60px;
+  text-align: center;
+  font-size: 15px;
+}
+.headingsec3{
+  /* border: 2px solid black; */
+  text-align: center;
+  width: 350px;
+  margin-left: 500px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    color: rgb(0, 0, 0);
+}
+/* Section Four Customisation */
+#super{
+  display: flex;
+  margin-right: 10px;
+  /* border: 2px solid black; */
+  width: 1200px;
+  height: 450px;
+  margin-left: 80px;
+}
+.fourth,.fifth,.six,.seven{
+  width: 280px;
+  height: 400px;
+  border: 2px solid black;
+  padding: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+/* Section five customisation */
+#m1,#m2,#m3,#m4 {
+  width: 80px;
+  height: 80px;
+  border: 0.01px solid black;
+  border-radius: 50%;
+  size: 100px;
+  margin-top: 0px;
+  font-size: 60px;
+  padding: 20px;
+}
+#ip2{
+  color: black;
+}
+/* .fourth,.fifth,.six,.seven,:hover{
+  background-color: rgb(245, 132, 132);
+} */
+ #ip2:hover{
+  background-color: brown;
+  #ip2:focus{
+    color: white;
+  }
+ }
+ .six:hover{
+  background-color: brown;
+ }
+ .fifth:hover{
+  background-color: brown;
+ }
+ .fourth:hover{
+  background-color: brown;
+ }
+ .seven:hover{
+  background-color: brown;
+ }
+ /* Image four customisation */
+ .image4{
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-bottom: 50px;
+ }
+ #image4a{
+  width: 500px;
+  height: 500px;
+ }
+ .div5{
+  width: 500px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 20px;
+  text-align: left;
+
+ }
+ .super1{
+  display: flex;
+ }
+ #div5b{
+  border-radius: 4ch;
+  width: 150px;
+  height: 35px;
+  margin-left: 150px;
+  background-color: blueviolet;
+ }
+ .super2 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: flex;
+ }
+ .super2a,.super2b {
+  width: 500px;
+  height: 600px;
+  margin-right: 30px;
+  padding: 2px;
+  margin-top: 10px;
+  margin-left: 20px;
+ }
+ #m5{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  size: 100px;
+  margin-top: 0px;
+  font-size: 60px;
+  padding: 20px;
+ }
+ .super2e{
+  overflow: hidden;
+  margin-top: 10px;
+  height:10px;
+ }
+ #img10{
+  width: 30px;
+  height: 30px;
+  border: 2px solid black;
+  padding-left: 20px;
+  padding-top: 16px;
+  border-radius: 60%;
+  color: blueviolet;
+  margin: 10px;
+  margin-top: 5px;
+ }
+ .super2f{
+  width: 250px;
+  margin-right: 80px;
+  margin-left: 80px;
+  margin-top: auto;
+ }
+ .subdiv{
+  display: block;
+  width: 400px;
+  height: 300px;
+  padding-left: 10px;
+  margin-top: 10px;
+ }
+ #super2g{
+  width: 500px;
+ }
+ /* Super 3 three div customisation */
+ .super3{
+  width: 600px;
+  height: 100px;
+  display: flex;
+ }
+.super3c{
+  align-items: end;
+  width: 600px;
+  margin-left: 500px;
+}
+.super3b{
+text-align: center;
+display: inline;
+width: 600px;
+height: 100px;
+overflow: hidden;
+white-space: nowrap;
+}
+.supper4{
+  display: flex;
+  height: 450px;
+}
+.supper4a,.supper4b,.supper4c,.supper4d{
+  width: 300px;
+  height: 400px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.img01,.img02,.img03{
+  width: 20px;
+  margin-left: 100px;
+  border-radius: 50%;
+  height: 20px;
+  padding: 20px;
+}
+#superm1{
+  display: flex;
+  margin-right: 10px;
+  width: 1200px;
+  height: 450px;
+  margin-left: 80px;
+}
+#m11,#m22,#m33{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  size: 100px;
+  margin-top: 0px;
+  font-size: 60px;
+  padding: 20px;
+}
+.fourth1,.fifth1,.six1 {
+  width: 280px;
+  height: 400px;
+  padding: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  margin-left: 60px;
+}
+.supper5{
+  display: flex;
+  height: 400px;
+}
+.supper5a,.supper5b,.supper5c{
+  width: 400px;
+  margin-left: 20px;
+}
+.supper6{
+  margin-top: 20px;
+  display: flex;
+  height: 100px;
+}
+.supper6a,.supper6b,.supper6c,.supper6d,.supper6e {
+  width: 200px;
+  height: 100px;
+  align-items: center;
+  margin-left: 40px;
+}
+.supper6z{
+  text-align: center;
+}
+.supper6aa{
+  width: 150px;
+  height: 100px;
+}
+.supper7{
+  display: flex;
+  width: 100%;
+  height: 500px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+.supper7a,.supper7b,.supper7c,.supper7d {
+  width: 330px;
+}
+.supper7aa{
+  width: 200px;
+  height: 200px;
+  margin-left: 40px;
+  
+}
+.supper7ab{
+  margin-left: 40px;
+  padding: 0px;
+}
+.supper7a1{
+  display: flex;
+  padding: 10px;
+  padding-left: 40px;
+}
+.supper7ac{
+  padding: 10px;
+  margin-top: 0px;
+  border: 2px solid white;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+.supper7ba{
+  margin-top: 100px;
+  margin-left: 45px;
+}
+.supper7bf{
+  margin-left: 20px;
+}
